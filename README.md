@@ -1,6 +1,8 @@
 # personal-site
 
-> A Vue.js project
+> My personal site built with Vue.js
+
+https://nickareias.com
 
 ## Build Setup
 
